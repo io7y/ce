@@ -1,4 +1,5 @@
-# 创建设施表
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br># 创建设施表
     cursor execute('''
         CREATE TABLE IF NOT EXISTS attractions (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
