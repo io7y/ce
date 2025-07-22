@@ -1,4 +1,5 @@
-# 获取票务价格
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br># 获取票务价格
         conn = get_db_connection()
         ticket = conn execute('SELECT price FROM tickets WHERE type = ?', (ticket_type,)) fetchone()
         conn close()
