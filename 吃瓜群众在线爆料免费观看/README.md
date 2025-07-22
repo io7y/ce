@@ -1,4 +1,5 @@
-# 数据库连接辅助函数
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br># 数据库连接辅助函数
 def get_db_connection():
     conn = sqlite3 connect('amusement_park db')
     conn row_factory = sqlite3 Row
