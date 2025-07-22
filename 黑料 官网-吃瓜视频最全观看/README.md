@@ -1,4 +1,5 @@
- # GET请求或表单验证失败时显示表单
+### [👉👉点此进入♥观看入口👈👈](http://a.d44k.cc/hl.html)
+<br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br><br></br> # GET请求或表单验证失败时显示表单
     conn = get_db_connection()
     tickets = conn execute('SELECT * FROM tickets') fetchall()
     conn close()
